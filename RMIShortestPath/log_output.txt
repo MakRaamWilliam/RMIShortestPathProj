@@ -1,0 +1,213 @@
+Request : 
+A 3 5
+A 3 1
+A 3 1
+D 2 1
+A 4 2
+F
+ Response : 
+response time : 35
+-------------------------------
+Request : 
+Q 2 1
+Q 2 3
+Q 3 2
+Q 4 3
+A 3 4
+F
+ Response : 
+2
+1
+2
+2
+response time : 46
+-------------------------------
+Request : 
+A 5 2
+Q 5 1
+Q 1 1
+A 2 3
+D 2 2
+F
+ Response : 
+3
+0
+response time : 26
+-------------------------------
+Request : 
+Q 2 1
+Q 4 3
+A 1 5
+Q 5 3
+Q 4 3
+F
+ Response : 
+2
+2
+2
+2
+response time : 10
+-------------------------------
+Request : 
+D 1 1
+D 5 3
+A 2 2
+A 3 5
+A 5 3
+F
+ Response : 
+response time : 9
+-------------------------------
+Request : 
+Q 2 4
+D 5 2
+Q 3 4
+A 5 4
+A 5 5
+F
+ Response : 
+1
+1
+response time : 13
+-------------------------------
+Request : 
+Q 5 4
+Q 2 2
+D 2 4
+Q 4 3
+Q 5 1
+F
+ Response : 
+2
+0
+2
+2
+response time : 14
+-------------------------------
+Request : 
+A 5 1
+D 2 3
+D 3 5
+A 2 2
+D 1 1
+F
+ Response : 
+response time : 5
+-------------------------------
+Request : 
+D 1 2
+Q 5 4
+Q 1 1
+D 2 1
+D 2 3
+F
+ Response : 
+1
+0
+response time : 4
+-------------------------------
+Request : 
+A 1 1
+A 1 1
+D 2 5
+D 4 2
+A 1 5
+F
+ Response : 
+response time : 35
+-------------------------------
+Request : 
+A 3 1
+A 1 4
+D 2 4
+A 5 5
+D 3 1
+F
+ Response : 
+response time : 40
+-------------------------------
+Request : 
+A 1 2
+A 4 2
+D 3 4
+A 2 2
+D 3 5
+F
+ Response : 
+response time : 12
+-------------------------------
+Request : 
+Q 3 2
+Q 3 1
+Q 4 2
+Q 5 4
+Q 3 4
+F
+ Response : 
+-1
+-1
+2
+-1
+-1
+response time : 37
+-------------------------------
+Request : 
+A 5 3
+A 5 1
+A 5 5
+D 3 1
+A 1 3
+F
+ Response : 
+response time : 7
+-------------------------------
+Request : 
+D 3 5
+D 3 2
+A 1 1
+A 4 3
+D 2 1
+F
+ Response : 
+response time : 6
+-------------------------------
+Request : 
+A 5 3
+D 2 5
+A 2 3
+D 1 3
+A 5 1
+F
+ Response : 
+response time : 4
+-------------------------------
+Request : 
+Q 4 1
+Q 2 3
+Q 1 1
+Q 5 4
+Q 5 1
+F
+ Response : 
+1
+1
+0
+2
+1
+response time : 5
+-------------------------------
+Request : 
+Q 2 2
+Q 5 5
+Q 2 2
+Q 2 2
+Q 1 1
+F
+ Response : 
+0
+0
+0
+0
+0
+response time : 13
+-------------------------------
